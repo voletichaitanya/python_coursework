@@ -1,1 +1,2 @@
 print("bi")
+print("hello")
