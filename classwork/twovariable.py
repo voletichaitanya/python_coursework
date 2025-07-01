@@ -1,6 +1,3 @@
-import keyword                  #import keywords
-print(keyword.kwlist)           #list of keywords
-print(len(keyword.kwlist))      #len of keywords
 
 M=10                   #python is case sensitive
 m=10                   #python is case sensitive
